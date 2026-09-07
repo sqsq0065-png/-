@@ -1,13 +1,14 @@
 {
-  "name": "המספרה של שמואל - ניהול",
-  "short_name": "ניהול שמואל",
-  "start_url": "./",
-  "scope": "./",
+  "name": "המספרה של שמואל",
+  "short_name": "המספרה",
+  "description": "מערכת הניהול של המספרה של שמואל",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
-  "background_color": "#0a0908",
-  "theme_color": "#0a0908",
+  "background_color": "#0E0D0C",
+  "theme_color": "#0E0D0C",
   "icons": [
-    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
-    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png"}
   ]
 }
